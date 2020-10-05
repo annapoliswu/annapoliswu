@@ -1,8 +1,11 @@
 ### Welcome to my page!
-- [Portfolio of Art and Design](https://sites.google.com/view/annapoliswu/)
-- [CodePen] 
 
-- [Chemistry Glassware Lab Sim] (https://github.com/annapoliswu/chemSims)
+# Website Links 
+- [Portfolio of Art & Design](https://sites.google.com/view/annapoliswu/)
+- [CodePen](https://codepen.io/collection/nZwLWx)
+
+# Projects
+- [Chemistry Glassware Lab Sim](https://github.com/annapoliswu/chemSims)
 - [Camo Caper Color Theory Game](https://github.com/UD-CISC374/educational-game-project-team-15-zihan-wu-matt-miller)
 - [DNNER's Estuary Bird Game](https://github.com/cisc275/birdGame) 
 
