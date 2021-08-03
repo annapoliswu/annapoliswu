@@ -5,6 +5,7 @@
 - [CodePen](https://codepen.io/collection/nZwLWx)
 
 #### Projects
+- [ElecVis Energy Visualizer](https://github.com/Sensify-Lab/Electric-Vis)
 - [Chemistry Glassware Lab Sim](https://github.com/annapoliswu/chemSims)
 - [Camo Caper Color Theory Game](https://github.com/UD-CISC374/educational-game-project-team-15-zihan-wu-matt-miller)
 - [DNNER's Estuary Bird Game](https://github.com/cisc275/project-assignment-11-16) 
