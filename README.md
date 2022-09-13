@@ -4,12 +4,12 @@
 - [Portfolio of Art & Design](https://sites.google.com/view/annapoliswu/)
 - [CodePen](https://codepen.io/collection/nZwLWx)
 
-#### Projects
-- [Chemistry Glassware Lab Sim](https://github.com/annapoliswu/chemSims)
+#### Check out some of my projects
+- [SoundBoard App](https://github.com/trevorvandevelde/Soundboard)
+- [Away-sis VR Meditation](https://github.com/Cchololens/Meditation-App)
 - [Camo Caper Color Theory Game](https://github.com/UD-CISC374/educational-game-project-team-15-zihan-wu-matt-miller)
 - [DNNER's Estuary Bird Game](https://github.com/cisc275/project-assignment-11-16) 
-- [Data Analysis of Educational Disparities in Delaware](https://annapoliswu.github.io/CISC367_Midterm/html/final-student-disparity-analysis.html)
-- [SoundBoard App](https://github.com/trevorvandevelde/Soundboard)
+- [Chemistry Glassware Lab Sim](https://github.com/annapoliswu/chemSims)
 - [ElecVis Energy Visualizer](https://github.com/Sensify-Lab/Electric-Vis)
 
 <!--
