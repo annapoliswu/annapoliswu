@@ -1,9 +1,5 @@
 ### Welcome to my page! 😊 
 
-#### Website Links
-- [Portfolio of Art & Design](https://sites.google.com/view/annapoliswu/)
-- [CodePen](https://codepen.io/collection/nZwLWx)
-
 #### Check out some of my projects
 - [SoundBoard App](https://github.com/trevorvandevelde/Soundboard)
 - [Away-sis VR Meditation](https://github.com/Cchololens/Meditation-App)
